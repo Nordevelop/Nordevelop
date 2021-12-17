@@ -1,6 +1,17 @@
 - 👋 Hi, I’m @Nordevelop
-- 👀 I’m interested in Objet Oriented 
-Programming & Dynamic Data Structures.
+- 👀 I’m interested in Objet Oriented Programming & Dynamic Data Structures.
+     - 👀 Class.
+     - 👀 Method.
+     - 👀 Objects.
+     - 👀 Arguments.
+     - 👀 Encapsulation.
+     - 👀 Inheritance.
+- 👀 Data Structures.
+        -👀 Arrays.
+        -👀 ArrayList;
+        -👀 Queues;
+        -👀 Stacks;
+     
 - 🌱 I’m currently learning ... Books y youtube of programmers
 - 💞️ I'likes Books:
 
