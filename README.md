@@ -4,10 +4,10 @@
      - 👀 Method.
      - 👀 Objects.
 - 👀 Data Structures.
-     -👀 Arrays.
-     -👀 ArrayList;
-     -👀 Queues;
-     -👀 Stacks;
+     Arrays.
+     ArrayList;
+     Queues;
+     Stacks;
      
 - 🌱 I’m currently learning ... Books y youtube of programmers
 - 💞️ I'likes Books:
