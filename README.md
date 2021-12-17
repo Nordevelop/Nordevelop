@@ -5,8 +5,11 @@
      - 👀 Objects.
      - 👀 Arrays.
      - 👀 ArrayList.
-     - 👀 Queues;
-     - 👀 Stacks;
+     - 👀 Queues.
+     - 👀 Stacks.
+     - 👀 Linked list.
+     - 👀 Tree.
+     - 👀 Graphs.
 - 🌱 I’m currently learning .. youtube of programmers
 - 💞️ I'likes Books:
 
