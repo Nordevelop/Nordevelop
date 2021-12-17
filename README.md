@@ -4,9 +4,9 @@ Programming & Dynamic Data Structures.
 - 🌱 I’m currently learning ... Books y youtube of programmers
 - 💞️ I'likes Books:
       - 🌱 Analisis y diseño de sistemas.- Kendall & Kendall, Prentice hall.
-     - 🌱  Estructuras de datos en C.-Jose l. Joyanes Aguilar, Mc Graw Hills.
+      - 🌱 Estructuras de datos en C.-Jose l. Joyanes Aguilar, Mc Graw Hills.
       - 🌱 Estructuras de datos en C++.-Jose l. Joyanes Aguilar, Mc Graw Hills.
-     - 🌱  Estructuras de datos en Java.-Jose l. Joyanes Aguilar, Mc Graw Hills.
+      - 🌱 Estructuras de datos en Java.-Jose l. Joyanes Aguilar, Mc Graw Hills.
       - 🌱 Advanced topics in C.-Noel Kalicharan, Apress
       - 🌱 Advanced topics in Java.- Noel Kalicharan, Apress.
       - 🌱 CSS Cookbook.- Christopher Smithtt, O'reilly.
