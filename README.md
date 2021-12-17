@@ -6,7 +6,7 @@
      - 👀 Arrays.
      - 👀 ArrayList.
      - 👀 Queues;
-      -👀 Stacks;
+     - 👀 Stacks;
 - 🌱 I’m currently learning .. youtube of programmers
 - 💞️ I'likes Books:
 
