@@ -10,7 +10,7 @@
      - 👀 Linked list.
      - 👀 Tree.
      - 👀 Graphs.
-- 🌱 I’m currently learning .. youtube of programmers
+- 🌱 I’m currently learning vlogs in youtube of programmers
 - 💞️ I'likes Books:
 
       -💞️  Analisis y diseño de sistemas.- Kendall & Kendall, Prentice hall.
@@ -21,7 +21,7 @@
       
       -💞️  Estructuras de datos en Java.-Jose l. Joyanes Aguilar, Mc Graw Hills.
       
-      -💞️  Advanced topics in C.-Noel Kalicharan, Apress
+      -💞️  Advanced topics in C.-Noel Kalicharan, Apress.
        
       -💞️  Advanced topics in Java.- Noel Kalicharan, Apress.
       
