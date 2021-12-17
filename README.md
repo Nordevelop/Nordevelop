@@ -3,13 +3,11 @@
      - 👀 Class.
      - 👀 Method.
      - 👀 Objects.
-- 👀 Data Structures.
-     Arrays.
-     ArrayList;
-     Queues;
-     Stacks;
-     
-- 🌱 I’m currently learning ... Books y youtube of programmers
+     - 👀 Arrays.
+     - 👀 ArrayList.
+     - 👀 Queues;
+      -👀 Stacks;
+- 🌱 I’m currently learning .. youtube of programmers
 - 💞️ I'likes Books:
 
       -💞️  Analisis y diseño de sistemas.- Kendall & Kendall, Prentice hall.
