@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Nordevelop
-- 👀 I’m interested in Objet Oriented Programming & Dynamic Data Structures.
+- 👀 I’m interested in Objet Oriented Programming. 
      - 👀 Class.
      - 👀 Method.
      - 👀 Objects.
+     - 👀 recursion.
+     - 👀 Sorting algorithm.
+- 👀 I like Dynamic Data Structures.
      - 👀 Arrays.
      - 👀 ArrayList.
      - 👀 Queues.
@@ -10,7 +13,12 @@
      - 👀 Linked list.
      - 👀 Tree.
      - 👀 Graphs.
-- 🌱 I’m currently learning vlogs in youtube of programmers
+- 🌱 I’m currently learning vlogs in youtube of programmers.
+     -🌱 Bettatech      https://www.youtube.com/c/BettaTech
+     -🌱 FreeCodeCamp   https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+     -🌱 Fazt   https://www.youtube.com/c/FaztTech     
+     -🌱 Hola Mundo     https://www.youtube.com/c/HolaMundoDev
+     -🌱 Manz   www.youtube.com/c/manzDev
 - 💞️ I'likes Books:
 
       -💞️  Analisis y diseño de sistemas.- Kendall & Kendall, Prentice hall.
