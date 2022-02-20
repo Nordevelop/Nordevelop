@@ -13,7 +13,7 @@
      - 👀 Quicksort.
      - 👀 Shellsort.
      
-- 👀 I like Dynamic Data Structures.
+- 👀 Dynamic Data Structures.
      - 👀 Arrays.
      - 👀 ArrayList.
      - 👀 Queues.
