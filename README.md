@@ -19,6 +19,7 @@
      - 👀 Queues.
      - 👀 Stacks.
      - 👀 Linked list.
+     - 👀 Hash Table
      - 👀 Tree.
      - 👀 Graphs.
 
