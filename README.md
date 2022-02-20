@@ -4,7 +4,14 @@
      - 👀 Method.
      - 👀 Objects.
      - 👀 recursion.
-     - 👀 Sorting algorithm.
+     
+- 👀 Sorting algorithm.  
+     - 👀 burblesort.
+     - 👀 Selection sort.
+     - 👀 Inserccion sort.
+     - 👀 Mergesort.
+     - 👀 Quicksort.
+     - 👀 Shellsort.
      
 - 👀 I like Dynamic Data Structures.
      - 👀 Arrays.
@@ -17,12 +24,12 @@
 
 - 💞️ I'likes Books:
 
-      -💞️  Analisis y diseño de sistemas.- Kendall & Kendall, Prentice hall.
+      -💞️  Design Patterns.- Eric Freeman & Elesabeth Freeman,  O'reilly.
       
-      -💞️  Estructuras de datos en C.-Jose l. Joyanes Aguilar, Mc Graw Hills.
+      -💞️  Introduction to Algorithms.- Thomas Cormen, Charles Leiserson. The MIT Press.
       
-      -💞️  Estructuras de datos en C++.-Jose l. Joyanes Aguilar, Mc Graw Hills.
-      
+      -💞️  Mastering Algorithms with C.- Kyle Loudon, O'reilly.
+     
       -💞️  Estructuras de datos en Java.-Jose l. Joyanes Aguilar, Mc Graw Hills.
       
       -💞️  Advanced topics in C.-Noel Kalicharan, Apress.
