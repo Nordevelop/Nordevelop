@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Nordevelop
+- dudas consultas https://twitter.com/Nordevelop
 - 👀 I’m interested in Objet Oriented Programming. 
      - 👀 Class.
      - 👀 Method.
