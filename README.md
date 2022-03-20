@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nordevelop
-- dudas consultas https://twitter.com/Nordevelop
+- doubts and questions. your question does not disturb. https://twitter.com/Nordevelop
 - 👀 I’m interested in Objet Oriented Programming. 
      - 👀 Class.
      - 👀 Method.
@@ -19,8 +19,7 @@
      - 👀 ArrayList.
      - 👀 Queues.
      - 👀 Stacks.
-     - 👀 Linked list.
-     - 👀 Hash Table
+     - 👀 Linked list
      - 👀 Tree.
      - 👀 Graphs.
 
